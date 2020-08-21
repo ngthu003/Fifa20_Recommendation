@@ -26,3 +26,13 @@ The current plan to approach this has the following key points:
 
 #### Updates
 
+| Date        | Details       |
+| ----------- | ------------- |
+| 08/20       | Created a helper df to specify each player's position(s), where each row is a player, and each column is a position, and entry (i,j) = 1 if player *i* plays position *j*, and 0 otherwise. |
+
+
+
+
+
+
+
