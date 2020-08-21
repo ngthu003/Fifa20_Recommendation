@@ -5,8 +5,8 @@
 
 > The main objectives of this project are:
 >
-> 1.  to make a recommendation system, in this case to recommend players given some search criteria (position, nationality, age, etc.);
-> 2.  to make a simple interactive R Shiny web app, which gives users the search experience.
+> 1.  to make a __recommendation system__, in this case to recommend players given some search criteria (position, nationality, age, etc.);
+> 2.  to make a simple __interactive R Shiny web app__, which gives users the search experience.
 >
 > This is done based on the data set of all professional (European) football players, available [here on Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset) (which was scraped and last updated from [https://sofifa.com/](https://sofifa.com/) on September 2019).
 
@@ -21,3 +21,8 @@ The current plan to approach this has the following key points:
 1.  Explore the key attributes per position
 2.  Compute the comprehensive ratings per player per position
 3.  Search the top players given the search criteria.
+
+***
+
+#### Updates
+
